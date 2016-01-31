@@ -78,7 +78,7 @@ return [
 
         'sqlsrv' => [
             'driver'   => 'sqlsrv',
-            'host'     => '103.10.54.99',
+            'host'     => '',
             'database' => 'ajaxtodos',
             'username' => 'sa',
             'password' => 'Qwert3201',
