@@ -78,10 +78,10 @@ return [
 
         'sqlsrv' => [
             'driver'   => 'sqlsrv',
-            'host'     => '103.10.54.99',
+            'host'     => 'localhost',
             'database' => 'ajaxtodos',
-            'username' => 'sa',
-            'password' => 'Qwert3201',
+            'username' => 'root',
+            'password' => '',
             'charset'  => 'utf8',
             'prefix'   => '',
         ],
