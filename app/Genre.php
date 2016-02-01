@@ -9,4 +9,5 @@ class Genre extends Model
     protected $table = "genress";
 
     protected $fillable = ['genre'];
+
 }
